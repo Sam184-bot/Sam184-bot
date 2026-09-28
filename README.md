@@ -57,10 +57,6 @@ Meitei traditions.
 - Material-led exploration
 - Narrative through textiles
 
-## Portfolio
-
-[View My Portfolio](YOUR-PORTFOLIO-LINK)
-
 ## CV
 
 [View My CV](Samruddhi_Khobragade_CV.pdf)
